@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "爛泥",
+  "base_artist": "草東沒有派對",
+  "createdAt": "2026-03-10T08:38:59.242546Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "爛泥",
+      "artist": "彭羚",
+      "has_synced": true,
+      "path": "select/01_爛泥_彭羚.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "爛泥",
+      "artist": "草東沒有派對",
+      "has_synced": true,
+      "path": "select/02_爛泥_草東沒有派對.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "爛泥 [Wimpish]",
+      "artist": "草東沒有派對 (No Party For Cao Dong)",
+      "has_synced": true,
+      "path": "select/03_爛泥_[Wimpish]_草東沒有派對_(No_Party_For_Cao_Dong).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "爛泥",
+      "artist": "Andy Hui",
+      "has_synced": true,
+      "path": "select/04_爛泥_Andy_Hui.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "爛泥",
+      "artist": "Andy Hui",
+      "has_synced": true,
+      "path": "select/05_爛泥_Andy_Hui.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wimpish (爛泥)",
+      "artist": "No Party for Cao Dong (草東沒有派對)",
+      "has_synced": true,
+      "path": "select/06_Wimpish_(爛泥)_No_Party_for_Cao_Dong_(草東沒有派對).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "爛泥",
+      "artist": "彭羚",
+      "has_synced": true,
+      "path": "select/07_爛泥_彭羚.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "爛泥",
+      "artist": "Hui, Andy",
+      "has_synced": true,
+      "path": "select/08_爛泥_Hui,_Andy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "爛泥",
+      "artist": "Cass Phang",
+      "has_synced": true,
+      "path": "select/09_爛泥_Cass_Phang.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "爛泥",
+      "artist": "Hui Andy (許志安)",
+      "has_synced": true,
+      "path": "select/10_爛泥_Hui_Andy_(許志安).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "爛泥",
+      "artist": "草東沒有派對 [No Party for Cao Dong]",
+      "has_synced": true,
+      "path": "select/11_爛泥_草東沒有派對_[No_Party_for_Cao_Dong].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "爛泥",
+      "artist": "草東沒有派對",
+      "has_synced": false,
+      "path": "select/pl_01_爛泥_草東沒有派對.txt"
+    }
+  ]
+}
